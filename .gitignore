@@ -1,0 +1,5 @@
+.env
+.eslintrc.json
+node_modules/
+client/node_modules/
+dist/
